@@ -322,15 +322,15 @@
         infinite: true,
         autoplay: true,
         autoplaySpeed: 4000,
-        slidesToShow: 6,
-        slidesToScroll: 6,
+        slidesToShow: 4,
+        slidesToScroll: 4,
         variableWidth: false,
         arrows: false,
         responsive: [{
                 breakpoint: 1024,
                 settings: {
-                    slidesToShow: 6,
-                    slidesToScroll: 6,
+                    slidesToShow: 4,
+                    slidesToScroll: 4,
                     infinite: true,
                     dots: true
                 }
