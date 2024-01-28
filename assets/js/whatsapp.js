@@ -13,7 +13,7 @@ const askingUnit = () => {
         'Mercedes E Class'
     ];
 
-    const whatsappNumber = '';
+    const whatsappNumber = '6282331613281';
 
     $('.product-action .btn-primary').each((index, obj) => {
         var index = index;

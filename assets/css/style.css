@@ -4772,9 +4772,14 @@ td.cart-product-quantity {
 }
 
 .product .product-img .label-brand {
-	background-color: #000;
-	width: 200px;
-	padding: 10px;
+	/* background-color: #000; */
+	background-image: url(../images/logo/label-brand.png);
+	background-repeat: no-repeat;
+	background-position: center;
+	width: 218px;
+	height: 39px;
+	padding: 18px;
+	padding-right: 5px;
 }
 
 .product .product-img .label-brand h4 {
